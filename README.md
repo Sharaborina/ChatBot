@@ -1,4 +1,4 @@
-# ChatBot (Danish language)
+# ChatBot (the Danish language)
 
 This telegram chatbot is called Danish Booking Chatbot (@airbnb_help_chatbot).  
   The main idea of this chatbot is to search for suitable accommodation options based on the information provided by the user (where the most important are: city name, arrival date and depature date).  
